@@ -7,8 +7,7 @@ A minimal Python system info-fetcher that displays only essential information wi
 ## Features
 
 - cool snake!
-- cant larp
-- only useful info
+- useful info
 
 ## Installation
 
@@ -27,3 +26,7 @@ git clone https://github.com/Sharpnesse49/Snakrrr
 ```bash
 snakrrr
 ```
+
+## Why?
+
+This tool is inspired by [fastfetch](https://github.com/fastfetch-cli/fastfetch), and is meant to be placed in the `.bashrc` to launch with the terminal. It is used to see if you have to update (kernel-wise), what RAM and storage amount you're using, etc.
