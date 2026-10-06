@@ -29,4 +29,4 @@ snakrrr
 
 ## Why?
 
-This tool is inspired by [fastfetch](https://github.com/fastfetch-cli/fastfetch), and is meant to be placed in the `.bashrc` to launch with the terminal. It is used to see if you have to update (kernel-wise), what RAM and storage amount you're using, etc.
+This tool is inspired by [fastfetch](https://github.com/fastfetch-cli/fastfetch), and is meant to be placed in the `.bashrc` file to launch with the terminal. It is used to see if you have to update (kernel-wise), what RAM and storage amount you're using, etc.
